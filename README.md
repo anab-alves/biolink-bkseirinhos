@@ -31,4 +31,4 @@ Criar uma página simples e elegante que funcione como um mini site para o Insta
 🚀 Demonstração
 
 🔗 Acesse o projeto online
- (adicione o link real aqui)
+ (bkseirinhos-biolink.vercel.app)
